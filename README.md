@@ -43,21 +43,21 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## Langkah Praktikum 
 ### 1. Persiapan Lingkungan 
-![](assets/Langkah1.png)
+![](/assets/Langkah1.png)
 ### 2. Membuat halaman website (Home, Projek dan Essay)
 #### - Halaman Home
-![](assets/Home.png)
+![](/assets/Home.png)
 #### - Halaman Projek
-![](assets/Projek.png)
+![](/assets/Projects.png)
 #### - Halaman Essay
-![](assets/Essay.png)
+![](/assets/Essays.png)
 ### 3. Membuat Layout dan Navigasi
-![](assets/Langkah3.png)
+![](/assets/Langkah3.png)
 ### 4. Membuat Halaman Proyek dengan Grid Responsif
-![](assets/Langkah4.png)
+![](/assets/Langkah4.png)
 
 ## Tugas 
 ### 1. Modifikasi halaman "Esai" dengan Grid daftar artikel yang telah ditulis.
-![](assets/Tugas1.png)
+![](/assets/Tugas1.png)
 ### 2. Modifikasi halaman “Tentang Saya” Buat tampilan yang menarik 
-![](assets/Tugas2.png)
+![](/assets/Tugas2.png)
